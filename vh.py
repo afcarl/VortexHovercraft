@@ -1,5 +1,5 @@
 
-
+# -*- coding: utf-8 -*-
 """
 Keszitette: Gal Mate ( E4U2OE ) - Automatizalt Gyartorendszerek Projekt Nulla feladat
 
