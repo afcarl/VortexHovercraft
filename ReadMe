@@ -1,0 +1,21 @@
+Welcome!
+
+This is an application, that sends data via Bluetooth,
+to an external tool. Do not forget to install PyBluez,
+before running the script.
+
+https://pypi.python.org/pypi/PyBluez
+
+Any other modules are not necessary to be installed.
+The Tkinter in-built graphical module was imported,
+to build a graphical-user-interface for the app.
+
+If you click the canvas, and hold down left mouse button,
+the app sends the coordinates, according to the cursor.
+Y coordinate describes throttle,
+X coordinate describes steering.
+These two values were needed to produce an 8-bit PWM signal,
+for the two ESC for our BLDC motors.
+
+Thanks for reading!
+sonus89
